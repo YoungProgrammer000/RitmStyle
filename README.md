@@ -9,5 +9,6 @@
 <br />AOS.js
 <br />Parallax
 <br />Rellax.js
+<br /> Работа с GoogleMap
 <br />Lightgallery.js
 <br />Popup
